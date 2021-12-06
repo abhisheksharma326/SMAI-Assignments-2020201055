@@ -1,0 +1,349 @@
+IS BN <= -1.0837058141316522 ?
+TRUE BRANCH:
+  IS BC <= -0.5638080045203997 ?
+  TRUE BRANCH:
+    Prediction:2
+  FALSE BRANCH:
+    IS SECSize <= -0.7371072743908171 ?
+    TRUE BRANCH:
+      Prediction:2
+    FALSE BRANCH:
+      IS CT <= -0.3905087346499822 ?
+      TRUE BRANCH:
+        Prediction:2
+      FALSE BRANCH:
+        IS CT <= -0.04391019490914727 ?
+        TRUE BRANCH:
+          Prediction:2
+        FALSE BRANCH:
+          IS CT <= 0.47598761470210516 ?
+          TRUE BRANCH:
+            Prediction:2
+          FALSE BRANCH:
+            IS CT <= 0.82258615444294 ?
+            TRUE BRANCH:
+              Prediction:2
+            FALSE BRANCH:
+              IS UCSize <= 0.6492868845725226 ?
+              TRUE BRANCH:
+                Prediction:4
+              FALSE BRANCH:
+                Prediction:4
+FALSE BRANCH:
+  IS SECSize <= -0.7371072743908171 ?
+  TRUE BRANCH:
+    IS BC <= -0.7371072743908171 ?
+    TRUE BRANCH:
+      Prediction:2
+    FALSE BRANCH:
+      IS CT <= -0.7371072743908171 ?
+      TRUE BRANCH:
+        Prediction:2
+      FALSE BRANCH:
+        IS CT <= -0.3905087346499822 ?
+        TRUE BRANCH:
+          Prediction:2
+        FALSE BRANCH:
+          IS CT <= -0.04391019490914727 ?
+          TRUE BRANCH:
+            Prediction:2
+          FALSE BRANCH:
+            Prediction:2
+  FALSE BRANCH:
+    IS CT <= -0.7371072743908171 ?
+    TRUE BRANCH:
+      IS BC <= -0.7371072743908171 ?
+      TRUE BRANCH:
+        Prediction:2
+      FALSE BRANCH:
+        Prediction:2
+    FALSE BRANCH:
+      IS CT <= -0.3905087346499822 ?
+      TRUE BRANCH:
+        IS BC <= -0.7371072743908171 ?
+        TRUE BRANCH:
+          Prediction:2
+        FALSE BRANCH:
+          Prediction:2
+      FALSE BRANCH:
+        IS BC <= -0.7371072743908171 ?
+        TRUE BRANCH:
+          IS CT <= -0.04391019490914727 ?
+          TRUE BRANCH:
+            Prediction:2
+          FALSE BRANCH:
+            IS CT <= 0.30268834483168766 ?
+            TRUE BRANCH:
+              Prediction:2
+            FALSE BRANCH:
+              Prediction:2
+        FALSE BRANCH:
+          IS CT <= -0.04391019490914727 ?
+          TRUE BRANCH:
+            Prediction:2
+          FALSE BRANCH:
+            IS CT <= 0.30268834483168766 ?
+            TRUE BRANCH:
+              Prediction:2
+            FALSE BRANCH:
+              IS BC <= -0.3905087346499822 ?
+              TRUE BRANCH:
+                Prediction:2
+              FALSE BRANCH:
+                IS UCShape <= -0.7371072743908171 ?
+                TRUE BRANCH:
+                  Prediction:2
+                FALSE BRANCH:
+                  IS UCShape <= -0.3905087346499822 ?
+                  TRUE BRANCH:
+                    Prediction:2
+                  FALSE BRANCH:
+                    IS UCSize <= -0.7371072743908171 ?
+                    TRUE BRANCH:
+                      Prediction:2
+                    FALSE BRANCH:
+                      IS UCSize <= -0.3905087346499822 ?
+                      TRUE BRANCH:
+                        Prediction:4
+                      FALSE BRANCH:
+                        IS SECSize <= -0.3905087346499822 ?
+                        TRUE BRANCH:
+                          IS CT <= 0.6492868845725226 ?
+                          TRUE BRANCH:
+                            Prediction:4
+                          FALSE BRANCH:
+                            IS CT <= 1.51578323392461 ?
+                            TRUE BRANCH:
+                              Prediction:4
+                            FALSE BRANCH:
+                              IS NN <= -0.7371072743908171 ?
+                              TRUE BRANCH:
+                                Prediction:4
+                              FALSE BRANCH:
+                                Prediction:4
+                        FALSE BRANCH:
+                          IS UCShape <= -0.04391019490914727 ?
+                          TRUE BRANCH:
+                            IS BN <= -0.5638080045203997 ?
+                            TRUE BRANCH:
+                              Prediction:2
+                            FALSE BRANCH:
+                              IS CT <= 0.82258615444294 ?
+                              TRUE BRANCH:
+                                Prediction:4
+                              FALSE BRANCH:
+                                IS BN <= 0.1293890749612702 ?
+                                TRUE BRANCH:
+                                  Prediction:2
+                                FALSE BRANCH:
+                                  IS BN <= 1.5157832339246102 ?
+                                  TRUE BRANCH:
+                                    Prediction:4
+                                  FALSE BRANCH:
+                                    IS Mitoses <= -0.5638080045203997 ?
+                                    TRUE BRANCH:
+                                      Prediction:4
+                                    FALSE BRANCH:
+                                      IS NN <= -0.3905087346499822 ?
+                                      TRUE BRANCH:
+                                        Prediction:4
+                                      FALSE BRANCH:
+                                        IS NN <= 0.1293890749612702 ?
+                                        TRUE BRANCH:
+                                          Prediction:4
+                                        FALSE BRANCH:
+                                          IS MA <= 0.1293890749612702 ?
+                                          TRUE BRANCH:
+                                            Prediction:4
+                                          FALSE BRANCH:
+                                            Prediction:4
+                          FALSE BRANCH:
+                            IS UCSize <= -0.04391019490914727 ?
+                            TRUE BRANCH:
+                              IS BN <= -0.3905087346499822 ?
+                              TRUE BRANCH:
+                                Prediction:2
+                              FALSE BRANCH:
+                                IS BN <= 0.30268834483168766 ?
+                                TRUE BRANCH:
+                                  Prediction:4
+                                FALSE BRANCH:
+                                  IS NN <= -0.3905087346499822 ?
+                                  TRUE BRANCH:
+                                    Prediction:4
+                                  FALSE BRANCH:
+                                    IS NN <= -0.04391019490914727 ?
+                                    TRUE BRANCH:
+                                      Prediction:4
+                                    FALSE BRANCH:
+                                      IS NN <= 0.9958854243133576 ?
+                                      TRUE BRANCH:
+                                        Prediction:4
+                                      FALSE BRANCH:
+                                        IS SECSize <= 0.1293890749612702 ?
+                                        TRUE BRANCH:
+                                          Prediction:4
+                                        FALSE BRANCH:
+                                          IS BC <= 0.1293890749612702 ?
+                                          TRUE BRANCH:
+                                            Prediction:4
+                                          FALSE BRANCH:
+                                            IS MA <= -0.3905087346499822 ?
+                                            TRUE BRANCH:
+                                              Prediction:4
+                                            FALSE BRANCH:
+                                              Prediction:4
+                            FALSE BRANCH:
+                              IS MA <= -0.7371072743908171 ?
+                              TRUE BRANCH:
+                                IS UCShape <= 0.47598761470210516 ?
+                                TRUE BRANCH:
+                                  Prediction:4
+                                FALSE BRANCH:
+                                  IS NN <= -0.3905087346499822 ?
+                                  TRUE BRANCH:
+                                    Prediction:4
+                                  FALSE BRANCH:
+                                    IS NN <= 0.47598761470210516 ?
+                                    TRUE BRANCH:
+                                      Prediction:4
+                                    FALSE BRANCH:
+                                      IS UCShape <= 0.82258615444294 ?
+                                      TRUE BRANCH:
+                                        Prediction:2
+                                      FALSE BRANCH:
+                                        IS CT <= 0.82258615444294 ?
+                                        TRUE BRANCH:
+                                          Prediction:4
+                                        FALSE BRANCH:
+                                          Prediction:4
+                              FALSE BRANCH:
+                                IS BN <= -0.7371072743908171 ?
+                                TRUE BRANCH:
+                                  IS UCShape <= 0.47598761470210516 ?
+                                  TRUE BRANCH:
+                                    Prediction:4
+                                  FALSE BRANCH:
+                                    IS UCShape <= 0.82258615444294 ?
+                                    TRUE BRANCH:
+                                      Prediction:4
+                                    FALSE BRANCH:
+                                      IS CT <= 0.9958854243133576 ?
+                                      TRUE BRANCH:
+                                        Prediction:4
+                                      FALSE BRANCH:
+                                        IS CT <= 1.51578323392461 ?
+                                        TRUE BRANCH:
+                                          Prediction:4
+                                        FALSE BRANCH:
+                                          IS BC <= 0.1293890749612702 ?
+                                          TRUE BRANCH:
+                                            Prediction:4
+                                          FALSE BRANCH:
+                                            Prediction:4
+                                FALSE BRANCH:
+                                  IS BN <= -0.3905087346499822 ?
+                                  TRUE BRANCH:
+                                    Prediction:4
+                                  FALSE BRANCH:
+                                    IS BN <= -0.04391019490914727 ?
+                                    TRUE BRANCH:
+                                      Prediction:4
+                                    FALSE BRANCH:
+                                      IS BN <= 0.30268834483168766 ?
+                                      TRUE BRANCH:
+                                        Prediction:4
+                                      FALSE BRANCH:
+                                        IS MA <= -0.3905087346499822 ?
+                                        TRUE BRANCH:
+                                          Prediction:4
+                                        FALSE BRANCH:
+                                          IS BN <= 0.6492868845725226 ?
+                                          TRUE BRANCH:
+                                            Prediction:4
+                                          FALSE BRANCH:
+                                            IS BN <= 1.3424839640541926 ?
+                                            TRUE BRANCH:
+                                              IS CT <= 0.9958854243133576 ?
+                                              TRUE BRANCH:
+                                                Prediction:4
+                                              FALSE BRANCH:
+                                                IS CT <= 1.51578323392461 ?
+                                                TRUE BRANCH:
+                                                  Prediction:4
+                                                FALSE BRANCH:
+                                                  IS SECSize <= 0.1293890749612702 ?
+                                                  TRUE BRANCH:
+                                                    Prediction:4
+                                                  FALSE BRANCH:
+                                                    Prediction:4
+                                            FALSE BRANCH:
+                                              IS UCSize <= 0.30268834483168766 ?
+                                              TRUE BRANCH:
+                                                IS MA <= 0.1293890749612702 ?
+                                                TRUE BRANCH:
+                                                  Prediction:4
+                                                FALSE BRANCH:
+                                                  IS MA <= 0.47598761470210516 ?
+                                                  TRUE BRANCH:
+                                                    Prediction:4
+                                                  FALSE BRANCH:
+                                                    IS SECSize <= 0.47598761470210516 ?
+                                                    TRUE BRANCH:
+                                                      Prediction:4
+                                                    FALSE BRANCH:
+                                                      IS SECSize <= 0.82258615444294 ?
+                                                      TRUE BRANCH:
+                                                        Prediction:4
+                                                      FALSE BRANCH:
+                                                        Prediction:4
+                                              FALSE BRANCH:
+                                                IS UCShape <= 0.30268834483168766 ?
+                                                TRUE BRANCH:
+                                                  Prediction:4
+                                                FALSE BRANCH:
+                                                  IS BC <= -0.04391019490914727 ?
+                                                  TRUE BRANCH:
+                                                    Prediction:4
+                                                  FALSE BRANCH:
+                                                    IS UCShape <= 0.6492868845725226 ?
+                                                    TRUE BRANCH:
+                                                      Prediction:4
+                                                    FALSE BRANCH:
+                                                      IS MA <= -0.04391019490914727 ?
+                                                      TRUE BRANCH:
+                                                        Prediction:4
+                                                      FALSE BRANCH:
+                                                        IS UCShape <= 0.9958854243133576 ?
+                                                        TRUE BRANCH:
+                                                          Prediction:4
+                                                        FALSE BRANCH:
+                                                          IS UCSize <= 0.6492868845725226 ?
+                                                          TRUE BRANCH:
+                                                            Prediction:4
+                                                          FALSE BRANCH:
+                                                            IS UCSize <= 1.1691846941837751 ?
+                                                            TRUE BRANCH:
+                                                              Prediction:4
+                                                            FALSE BRANCH:
+                                                              IS SECSize <= -0.04391019490914727 ?
+                                                              TRUE BRANCH:
+                                                                Prediction:4
+                                                              FALSE BRANCH:
+                                                                IS SECSize <= 0.30268834483168766 ?
+                                                                TRUE BRANCH:
+                                                                  Prediction:4
+                                                                FALSE BRANCH:
+                                                                  IS NN <= -0.7371072743908171 ?
+                                                                  TRUE BRANCH:
+                                                                    Prediction:4
+                                                                  FALSE BRANCH:
+                                                                    IS MA <= 0.30268834483168766 ?
+                                                                    TRUE BRANCH:
+                                                                      Prediction:4
+                                                                    FALSE BRANCH:
+                                                                      IS BC <= 0.30268834483168766 ?
+                                                                      TRUE BRANCH:
+                                                                        Prediction:4
+                                                                      FALSE BRANCH:
+                                                                        Prediction:4
